@@ -1,0 +1,1 @@
+[![Go](https://github.com/a-dubaj/GoBookingApp/actions/workflows/go.yml/badge.svg?branch=master)](https://github.com/a-dubaj/GoBookingApp/actions/workflows/go.yml)
